@@ -1,5 +1,12 @@
 //PATTERN SOLVING USING C++
-///////////////////////////
+IMPORTANT POINTS:
+- i-row, j - col
+- derive some formula after getting relation n,i,j
+- for alphabets use int ch='A'
+- space separete, nums separate
+- use count if pattern is serialized
+- break into parts and solve
+//-----------------------YASHRAJMANI--------------------------------
 
 // 5
 // *****
@@ -910,11 +917,3 @@ int main()
 */
 
 //----------------------------------------------------------------
-IMPORTANT POINTS:
-- i-row, j - col
-- derive some formula after getting relation n,i,j
-- for alphabets use int ch='A'
-- space separete, nums separate
-- use count if pattern is serialized
-- break into parts and solve
-//-----------------------YASHRAJMANI--------------------------------
